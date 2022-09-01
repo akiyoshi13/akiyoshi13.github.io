@@ -13,9 +13,10 @@
     ]
   },
   "interests": [
-    { "name": "Photography" },
+    { "name": "Small Business Solutions" },
     { "name": "Data Analysis" },
-    { "name": "Data Visualization" }
+    { "name": "Data Visualization" },
+    { "name": "Photography"}
   ],
   "skills": [
     {
